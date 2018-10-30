@@ -3,7 +3,7 @@ SRCEXTS	 := .c .cpp
 CPPFLAGS := 
 CFLAGS	 := 
 CFLAGS	 += 
-CXXFLAGS := 
+CXXFLAGS := -std=c++17
 CXXFLAGS += 
 LDFLAGS	 := 
 LDFLAGS	 += 
